@@ -1,0 +1,1 @@
+// File removed to prevent confusion with static index.html deployment.

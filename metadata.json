@@ -1,0 +1,7 @@
+{
+  "name": "Arguera's Paint - Houston Lead Gen Site",
+  "description": "A high-converting, mobile-first lead generation website for a local painting company in Houston, TX.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
